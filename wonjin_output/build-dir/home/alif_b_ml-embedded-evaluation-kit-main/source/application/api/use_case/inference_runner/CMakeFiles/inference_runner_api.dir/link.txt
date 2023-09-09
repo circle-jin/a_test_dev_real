@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinference_runner_api.a CMakeFiles/inference_runner_api.dir/src/TestModel.cc.o
+/usr/bin/ranlib libinference_runner_api.a

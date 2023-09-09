@@ -1,0 +1,2 @@
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ar qc ../../../lib/libad_api.a CMakeFiles/ad_api.dir/src/AdModel.cc.obj CMakeFiles/ad_api.dir/src/AdProcessing.cc.obj CMakeFiles/ad_api.dir/src/AdMelSpectrogram.cc.obj CMakeFiles/ad_api.dir/src/MelSpectrogram.cc.obj CMakeFiles/ad_api.dir/__/__/__/__/hal/source/components/npu/ethosu_cpu_cache.c.obj
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ranlib ../../../lib/libad_api.a

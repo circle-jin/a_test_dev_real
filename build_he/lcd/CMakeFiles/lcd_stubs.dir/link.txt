@@ -1,0 +1,2 @@
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ar qc ../lib/liblcd_stubs.a CMakeFiles/lcd_stubs.dir/source/glcd_stubs/glcd_stubs.c.obj CMakeFiles/lcd_stubs.dir/source/lcd_img.c.obj
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ranlib ../lib/liblcd_stubs.a

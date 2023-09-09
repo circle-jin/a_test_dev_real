@@ -1,0 +1,2 @@
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ar qc ../lib/libaudio_ensemble.a CMakeFiles/audio_ensemble.dir/source/ensemble/audio_ensemble.c.obj CMakeFiles/audio_ensemble.dir/source/ensemble/mic_listener.c.obj
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ranlib ../lib/libaudio_ensemble.a

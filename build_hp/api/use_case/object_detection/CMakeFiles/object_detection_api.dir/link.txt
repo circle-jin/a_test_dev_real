@@ -1,0 +1,2 @@
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ar qc ../../../lib/libobject_detection_api.a CMakeFiles/object_detection_api.dir/src/DetectorPreProcessing.cc.obj CMakeFiles/object_detection_api.dir/src/DetectorPostProcessing.cc.obj CMakeFiles/object_detection_api.dir/src/YoloFastestModel.cc.obj CMakeFiles/object_detection_api.dir/__/__/__/__/hal/source/components/npu/ethosu_cpu_cache.c.obj
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ranlib ../../../lib/libobject_detection_api.a

@@ -1,0 +1,2 @@
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ar qc ../../lib/libcommon_api.a CMakeFiles/common_api.dir/source/Classifier.cc.obj CMakeFiles/common_api.dir/source/ImageUtils.cc.obj CMakeFiles/common_api.dir/source/Mfcc.cc.obj CMakeFiles/common_api.dir/source/Model.cc.obj CMakeFiles/common_api.dir/source/TensorFlowLiteMicro.cc.obj CMakeFiles/common_api.dir/__/__/__/hal/source/components/npu/ethosu_cpu_cache.c.obj
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ranlib ../../lib/libcommon_api.a

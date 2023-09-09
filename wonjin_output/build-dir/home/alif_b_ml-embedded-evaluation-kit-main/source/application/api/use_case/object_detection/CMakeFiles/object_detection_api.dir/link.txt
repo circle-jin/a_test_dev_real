@@ -1,0 +1,2 @@
+/usr/bin/ar qc libobject_detection_api.a CMakeFiles/object_detection_api.dir/src/DetectorPreProcessing.cc.o CMakeFiles/object_detection_api.dir/src/DetectorPostProcessing.cc.o CMakeFiles/object_detection_api.dir/src/YoloFastestModel.cc.o
+/usr/bin/ranlib libobject_detection_api.a

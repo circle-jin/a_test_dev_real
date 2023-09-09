@@ -90,10 +90,10 @@ def main(dependencies_path: Path):
              lambda file: unzip(file.name, to_path=dependencies_path / "cmsis-nn"))
     download(CMSIS_ENSEMBLE,
              lambda file: unzip(file.name, to_path=dependencies_path / "cmsis-ensemble"))
-    download(CMSIS_ENSEMBLE_B,
-             lambda file: unzip(file.name, to_path=dependencies_path / "cmsis-ensemble-b"))
-    download(BOARDLIB,
-             lambda file: unzip(file.name, to_path=dependencies_path / "boardlib"))
+    # download(CMSIS_ENSEMBLE_B,
+    #          lambda file: unzip(file.name, to_path=dependencies_path / "cmsis-ensemble-b"))
+    # download(BOARDLIB,
+    #          lambda file: unzip(file.name, to_path=dependencies_path / "boardlib"))
     download(ETHOS_U_CORE_DRIVER,
              lambda file: untar(file.name, to_path=dependencies_path / "core-driver"))
     download(ETHOS_U_CORE_PLATFORM,

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimg_class_api.a CMakeFiles/img_class_api.dir/src/ImgClassProcessing.cc.o CMakeFiles/img_class_api.dir/src/MobileNetModel.cc.o
+/usr/bin/ranlib libimg_class_api.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libalif_ui_api.a CMakeFiles/alif_ui_api.dir/src/lv_paint_utils.c.o CMakeFiles/alif_ui_api.dir/src/ScreenLayout.cc.o CMakeFiles/alif_ui_api.dir/src/Alif240.c.o
+/usr/bin/ranlib libalif_ui_api.a

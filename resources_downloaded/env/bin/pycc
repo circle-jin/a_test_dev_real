@@ -1,0 +1,3 @@
+#!/home/alif_b_ml-embedded-evaluation-kit-main/resources_downloaded/env/bin/python3
+from numba.pycc import main
+main()

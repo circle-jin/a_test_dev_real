@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarm_math.a CMakeFiles/arm_math.dir/PlatformMath.cc.o
+/usr/bin/ranlib libarm_math.a

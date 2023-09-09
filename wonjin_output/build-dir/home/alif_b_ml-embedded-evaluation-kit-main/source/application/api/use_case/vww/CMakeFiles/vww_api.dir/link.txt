@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvww_api.a CMakeFiles/vww_api.dir/src/VisualWakeWordProcessing.cc.o CMakeFiles/vww_api.dir/src/VisualWakeWordModel.cc.o
+/usr/bin/ranlib libvww_api.a

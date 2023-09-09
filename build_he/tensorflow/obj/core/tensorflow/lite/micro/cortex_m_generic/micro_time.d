@@ -1,0 +1,23 @@
+/home/alif_b_ml-embedded-evaluation-kit-main/build_he/tensorflow/obj/core/tensorflow/lite/micro/cortex_m_generic/micro_time.o: \
+ tensorflow/lite/micro/cortex_m_generic/micro_time.cc \
+ tensorflow/lite/micro/micro_time.h \
+ /home/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/cstdint \
+ /home/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v8-m.main+dp/hard/bits/c++config.h \
+ /home/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v8-m.main+dp/hard/bits/os_defines.h \
+ /home/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v8-m.main+dp/hard/bits/cpu_defines.h \
+ /home/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /home/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdint.h \
+ /home/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_default_types.h \
+ /home/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/features.h \
+ /home/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
+ /home/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_intsup.h \
+ /home/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_stdint.h \
+ /home/alif_b_ml-embedded-evaluation-kit-main/dependencies/cmsis/Device/ARM/ARMCM55/Include/ARMCM55.h \
+ /home/alif_b_ml-embedded-evaluation-kit-main/dependencies/cmsis/CMSIS/Core/Include/core_cm55.h \
+ /home/alif_b_ml-embedded-evaluation-kit-main/dependencies/cmsis/CMSIS/Core/Include/cmsis_version.h \
+ /home/alif_b_ml-embedded-evaluation-kit-main/dependencies/cmsis/CMSIS/Core/Include/cmsis_compiler.h \
+ /home/alif_b_ml-embedded-evaluation-kit-main/dependencies/cmsis/CMSIS/Core/Include/cmsis_gcc.h \
+ /home/alif_b_ml-embedded-evaluation-kit-main/dependencies/cmsis/CMSIS/Core/Include/mpu_armv8.h \
+ /home/alif_b_ml-embedded-evaluation-kit-main/dependencies/cmsis/CMSIS/Core/Include/pmu_armv8.h \
+ /home/alif_b_ml-embedded-evaluation-kit-main/dependencies/cmsis/CMSIS/Core/Include/cachel1_armv7.h \
+ /home/alif_b_ml-embedded-evaluation-kit-main/dependencies/cmsis/Device/ARM/ARMCM55/Include/system_ARMCM55.h

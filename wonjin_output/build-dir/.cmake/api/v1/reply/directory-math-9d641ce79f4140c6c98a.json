@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "math",
+		"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/math"
+	}
+}

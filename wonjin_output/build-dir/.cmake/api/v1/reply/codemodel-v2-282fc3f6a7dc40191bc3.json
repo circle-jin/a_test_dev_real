@@ -1,0 +1,468 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					],
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "math",
+					"jsonFile" : "directory-math-9d641ce79f4140c6c98a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/math",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "log",
+					"jsonFile" : "directory-log-d2219cb1d7a8b2e8b4ec.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/log"
+				},
+				{
+					"build" : "common",
+					"jsonFile" : "directory-common-797ff52dd1cbed5be68f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/common",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/ad",
+					"jsonFile" : "directory-home.alif_b_ml-embedded-evaluation-kit-main.source.application.api.use_case.ad-0ed2d0112a2894aaeec9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/ad",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/alif_ui",
+					"jsonFile" : "directory-home.alif_b_ml-embedded-evaluation-kit-main.source.application.api.use_case.alif_ui-3d5ed83c839c434aa833.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/alif_ui",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr",
+					"jsonFile" : "directory-home.alif_b_ml-embedded-evaluation-kit-main.source.application.api.use_case.asr-1660912617c560902cd6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/img_class",
+					"jsonFile" : "directory-home.alif_b_ml-embedded-evaluation-kit-main.source.application.api.use_case.img_class-ceed77ee66274be57233.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/img_class",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/inference_runner",
+					"jsonFile" : "directory-home.alif_b_ml-embedded-evaluation-kit-main.source.application.api.use_case.inference_runner-7dc73130146e02c91c9a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/inference_runner",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/kws",
+					"jsonFile" : "directory-home.alif_b_ml-embedded-evaluation-kit-main.source.application.api.use_case.kws-4b56921ff3f5f6e474f0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/kws",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/noise_reduction",
+					"jsonFile" : "directory-home.alif_b_ml-embedded-evaluation-kit-main.source.application.api.use_case.noise_reduction-96b31adedb8faba94124.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/noise_reduction",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/object_detection",
+					"jsonFile" : "directory-home.alif_b_ml-embedded-evaluation-kit-main.source.application.api.use_case.object_detection-c4ca9c5320386ae182b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 11,
+					"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/object_detection",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/vww",
+					"jsonFile" : "directory-home.alif_b_ml-embedded-evaluation-kit-main.source.application.api.use_case.vww-5622716c743c94c4910e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 12,
+					"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/vww",
+					"targetIndexes" : 
+					[
+						10
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ml-embedded-eval-kit-api"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "arm_math",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "log",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "common_api",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "ad_api",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "alif_ui_api",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "asr_api",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "img_class_api",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "inference_runner_api",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "kws_api",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "noise_reduction_api",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "object_detection_api",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "vww_api",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "ad_api::@285c55d630a1d1380357",
+					"jsonFile" : "target-ad_api-b2cc6eb4e632a8eb700a.json",
+					"name" : "ad_api",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "alif_ui_api::@890631fa4f6d60edc4b2",
+					"jsonFile" : "target-alif_ui_api-38c87efb7431a294dcc8.json",
+					"name" : "alif_ui_api",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "arm_math::@874b28b4c7a3e614380d",
+					"jsonFile" : "target-arm_math-d26d17f43fd54910daab.json",
+					"name" : "arm_math",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "asr_api::@15a7bb2734479cb837f1",
+					"jsonFile" : "target-asr_api-96d5fdc8d85d0385404b.json",
+					"name" : "asr_api",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "common_api::@bfc844598bd03e848b3c",
+					"jsonFile" : "target-common_api-9d5731a868e7a75ae9b6.json",
+					"name" : "common_api",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "img_class_api::@4471799f22348db61aeb",
+					"jsonFile" : "target-img_class_api-250af5cc62fb6294bfb8.json",
+					"name" : "img_class_api",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "inference_runner_api::@648580ad4ee687920c09",
+					"jsonFile" : "target-inference_runner_api-7263d6cd302b778605e3.json",
+					"name" : "inference_runner_api",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "kws_api::@a53f10be5779af70b2a2",
+					"jsonFile" : "target-kws_api-bcad30e48d25d87ca315.json",
+					"name" : "kws_api",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "noise_reduction_api::@d0e1c3aed4624fdfa337",
+					"jsonFile" : "target-noise_reduction_api-9681fb35b0d775295abc.json",
+					"name" : "noise_reduction_api",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "object_detection_api::@3bd005530f9eee6dc6d8",
+					"jsonFile" : "target-object_detection_api-fe5a9e4620b3b4d341b8.json",
+					"name" : "object_detection_api",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "vww_api::@02e946e79e4a24aae687",
+					"jsonFile" : "target-vww_api-e782c21bfa314d7c7885.json",
+					"name" : "vww_api",
+					"projectIndex" : 12
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alif_b_ml-embedded-evaluation-kit-main/wonjin_output/build-dir",
+		"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/scripts/cmake/cmsis-pack-gen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

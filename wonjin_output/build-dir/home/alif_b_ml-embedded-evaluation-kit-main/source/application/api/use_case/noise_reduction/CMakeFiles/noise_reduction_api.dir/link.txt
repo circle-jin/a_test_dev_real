@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnoise_reduction_api.a CMakeFiles/noise_reduction_api.dir/src/RNNoiseProcessing.cc.o CMakeFiles/noise_reduction_api.dir/src/RNNoiseFeatureProcessor.cc.o CMakeFiles/noise_reduction_api.dir/src/RNNoiseModel.cc.o
+/usr/bin/ranlib libnoise_reduction_api.a

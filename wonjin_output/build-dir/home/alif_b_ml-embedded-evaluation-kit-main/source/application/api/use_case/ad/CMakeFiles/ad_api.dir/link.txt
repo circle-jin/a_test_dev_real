@@ -1,0 +1,2 @@
+/usr/bin/ar qc libad_api.a CMakeFiles/ad_api.dir/src/AdModel.cc.o CMakeFiles/ad_api.dir/src/AdProcessing.cc.o CMakeFiles/ad_api.dir/src/AdMelSpectrogram.cc.o CMakeFiles/ad_api.dir/src/MelSpectrogram.cc.o
+/usr/bin/ranlib libad_api.a

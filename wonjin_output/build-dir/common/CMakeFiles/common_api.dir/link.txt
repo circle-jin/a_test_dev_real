@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_api.a CMakeFiles/common_api.dir/source/Classifier.cc.o CMakeFiles/common_api.dir/source/ImageUtils.cc.o CMakeFiles/common_api.dir/source/Mfcc.cc.o CMakeFiles/common_api.dir/source/Model.cc.o CMakeFiles/common_api.dir/source/TensorFlowLiteMicro.cc.o
+/usr/bin/ranlib libcommon_api.a

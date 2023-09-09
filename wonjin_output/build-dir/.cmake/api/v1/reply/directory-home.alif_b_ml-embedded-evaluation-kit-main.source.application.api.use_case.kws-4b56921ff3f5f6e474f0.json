@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/kws",
+		"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/kws"
+	}
+}

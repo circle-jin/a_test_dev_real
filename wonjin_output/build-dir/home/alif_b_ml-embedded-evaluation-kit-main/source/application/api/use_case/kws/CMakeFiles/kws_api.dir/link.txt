@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkws_api.a CMakeFiles/kws_api.dir/src/KwsProcessing.cc.o CMakeFiles/kws_api.dir/src/MicroNetKwsModel.cc.o CMakeFiles/kws_api.dir/src/KwsClassifier.cc.o
+/usr/bin/ranlib libkws_api.a

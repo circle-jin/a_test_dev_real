@@ -1,0 +1,2 @@
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ar qc ../../../lib/libalif_ui_api.a CMakeFiles/alif_ui_api.dir/src/lv_paint_utils.c.obj CMakeFiles/alif_ui_api.dir/src/ScreenLayout.cc.obj CMakeFiles/alif_ui_api.dir/src/Alif240.c.obj CMakeFiles/alif_ui_api.dir/__/__/__/__/hal/source/components/npu/ethosu_cpu_cache.c.obj
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ranlib ../../../lib/libalif_ui_api.a

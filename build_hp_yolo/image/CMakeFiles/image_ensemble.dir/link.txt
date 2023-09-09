@@ -1,0 +1,2 @@
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ar qc ../lib/libimage_ensemble.a CMakeFiles/image_ensemble.dir/source/ensemble/image_ensemble.c.obj CMakeFiles/image_ensemble.dir/source/ensemble/src/bayer2rgb.c.obj CMakeFiles/image_ensemble.dir/source/ensemble/src/image_processing.c.obj CMakeFiles/image_ensemble.dir/source/ensemble/src/color_correction.c.obj CMakeFiles/image_ensemble.dir/source/ensemble/src/camera.c.obj
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ranlib ../lib/libimage_ensemble.a

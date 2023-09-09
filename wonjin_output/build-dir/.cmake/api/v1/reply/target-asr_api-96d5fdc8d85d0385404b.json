@@ -1,0 +1,163 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr/libasr_api.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 38,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/common/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/tensorflow/lite/micro/tools/make/downloads/flatbuffers/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/tensorflow/lite/micro/tools/make/downloads/gemmlowp"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/log/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/math/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "arm_math::@874b28b4c7a3e614380d"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "common_api::@bfc844598bd03e848b3c"
+		}
+	],
+	"id" : "asr_api::@15a7bb2734479cb837f1",
+	"name" : "asr_api",
+	"nameOnDisk" : "libasr_api.a",
+	"paths" : 
+	{
+		"build" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr",
+		"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr/src/Wav2LetterPreprocess.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr/src/Wav2LetterPostprocess.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr/src/Wav2LetterMfcc.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr/src/AsrClassifier.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr/src/OutputDecode.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/asr/src/Wav2LetterModel.cc",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

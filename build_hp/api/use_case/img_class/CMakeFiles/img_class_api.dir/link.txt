@@ -1,0 +1,2 @@
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ar qc ../../../lib/libimg_class_api.a CMakeFiles/img_class_api.dir/src/ImgClassProcessing.cc.obj CMakeFiles/img_class_api.dir/src/MobileNetModel.cc.obj CMakeFiles/img_class_api.dir/__/__/__/__/hal/source/components/npu/ethosu_cpu_cache.c.obj
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ranlib ../../../lib/libimg_class_api.a

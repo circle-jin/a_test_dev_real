@@ -1,0 +1,2 @@
+/usr/bin/ar qc libasr_api.a CMakeFiles/asr_api.dir/src/Wav2LetterPreprocess.cc.o CMakeFiles/asr_api.dir/src/Wav2LetterPostprocess.cc.o CMakeFiles/asr_api.dir/src/Wav2LetterMfcc.cc.o CMakeFiles/asr_api.dir/src/AsrClassifier.cc.o CMakeFiles/asr_api.dir/src/OutputDecode.cc.o CMakeFiles/asr_api.dir/src/Wav2LetterModel.cc.o
+/usr/bin/ranlib libasr_api.a

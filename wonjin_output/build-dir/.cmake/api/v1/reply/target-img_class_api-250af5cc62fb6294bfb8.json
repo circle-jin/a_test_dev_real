@@ -1,0 +1,131 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/img_class/libimg_class_api.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/img_class/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 32,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/img_class/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/common/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/tensorflow/lite/micro/tools/make/downloads/flatbuffers/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/tensorflow/lite/micro/tools/make/downloads/gemmlowp"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/log/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/math/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "arm_math::@874b28b4c7a3e614380d"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "common_api::@bfc844598bd03e848b3c"
+		}
+	],
+	"id" : "img_class_api::@4471799f22348db61aeb",
+	"name" : "img_class_api",
+	"nameOnDisk" : "libimg_class_api.a",
+	"paths" : 
+	{
+		"build" : "home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/img_class",
+		"source" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/img_class"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/img_class/src/ImgClassProcessing.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/alif_b_ml-embedded-evaluation-kit-main/source/application/api/use_case/img_class/src/MobileNetModel.cc",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

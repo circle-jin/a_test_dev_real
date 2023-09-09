@@ -1,0 +1,2 @@
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ar qc ../lib/libprofiler.a CMakeFiles/profiler.dir/Profiler.cc.obj CMakeFiles/profiler.dir/__/hal/source/components/npu/ethosu_cpu_cache.c.obj
+/home/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ranlib ../lib/libprofiler.a
